@@ -18,3 +18,8 @@ Iteration terminated.
 Goals:
 
 * Change displayed text based on button interaction
+
+Bonus:
+
+* Text is now integrated in a scrolling area
+* ScrollingComponent prefab created
